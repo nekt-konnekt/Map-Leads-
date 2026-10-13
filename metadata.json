@@ -1,0 +1,6 @@
+{
+  "name": "MapLeads - No-Website Business Lead Finder",
+  "description": "Discover local businesses without websites, enrich verified phone numbers and emails, and manage outreach in a searchable spreadsheet database and sales pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
